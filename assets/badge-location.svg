@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 185 32" width="185" height="32">
+  <rect x="0.5" y="0.5" width="183.5" height="31" rx="4" fill="#111827" stroke="#1F2937" stroke-width="1"/>
+  <!-- Location pin glyph -->
+  <path d="M14 8a4.5 4.5 0 0 0-4.5 4.5c0 3.5 4.5 9.5 4.5 9.5s4.5-6 4.5-9.5A4.5 4.5 0 0 0 14 8zm0 6a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3z" fill="#2DD4BF" stroke="none"/>
+  <text x="30" y="20" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="13" fill="#E6EDF3" letter-spacing="0.5">CÁCERES, SPAIN</text>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 32" width="180" height="32">
+  <rect x="0.5" y="0.5" width="179" height="31" rx="4" fill="#111827" stroke="#1F2937" stroke-width="1"/>
+  <circle cx="14" cy="16" r="3" fill="#2DD4BF"/>
+  <text x="26" y="20" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="13" fill="#E6EDF3" letter-spacing="0.5">OPEN TO WORK</text>
+</svg>

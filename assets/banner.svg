@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300">
+  <defs>
+    <pattern id="dotGrid" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="12" cy="12" r="1" fill="#E6EDF3" opacity="0.04"/>
+    </pattern>
+    <pattern id="scanlines" x="0" y="0" width="1200" height="4" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="1200" height="1" fill="#E6EDF3" opacity="0.03"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="300" fill="#0B1120"/>
+  <rect width="1200" height="300" fill="url(#dotGrid)"/>
+  <rect width="1200" height="300" fill="url(#scanlines)"/>
+
+  <!-- Status pill -->
+  <circle cx="72" cy="62" r="4" fill="#2DD4BF"/>
+  <text x="86" y="66" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="12" fill="#8B949E" letter-spacing="1">SYSTEM STATUS: OPERATIONAL</text>
+
+  <!-- Name -->
+  <text x="60" y="150" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="48" font-weight="700" fill="#E6EDF3" letter-spacing="2">MANUEL COBOS SOLÍS</text>
+
+  <!-- Subtitle -->
+  <text x="60" y="185" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="20" fill="#8B949E" letter-spacing="0.5">Full Stack Developer — Java/Spring Boot &amp; Angular</text>
+
+  <!-- Divider line -->
+  <line x1="60" y1="210" x2="720" y2="210" stroke="#1F2937" stroke-width="1"/>
+
+  <!-- Tagline -->
+  <text x="60" y="238" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="14" fill="#2DD4BF" letter-spacing="0.5">Building high-availability systems for banking</text>
+
+  <!-- Network motif (right side) -->
+  <g stroke="#1F2937" stroke-width="1.2" fill="none">
+    <!-- Connecting lines -->
+    <line x1="810" y1="95" x2="960" y2="70"/>
+    <line x1="960" y1="70" x2="1080" y2="130"/>
+    <line x1="1080" y1="130" x2="990" y2="210"/>
+    <line x1="990" y1="210" x2="810" y2="190"/>
+    <line x1="810" y1="95" x2="810" y2="190"/>
+    <line x1="810" y1="95" x2="1080" y2="130"/>
+    <line x1="960" y1="70" x2="990" y2="210"/>
+    <line x1="810" y1="190" x2="1080" y2="130"/>
+  </g>
+
+  <!-- Network nodes -->
+  <circle cx="810" cy="95" r="5" fill="#0B1120" stroke="#1F2937" stroke-width="1.5"/>
+  <circle cx="960" cy="70" r="5" fill="#0B1120" stroke="#1F2937" stroke-width="1.5"/>
+  <!-- Accent node (pulsing/system healthy) -->
+  <circle cx="1080" cy="130" r="6" fill="#2DD4BF" opacity="0.3"/>
+  <circle cx="1080" cy="130" r="4" fill="#2DD4BF"/>
+  <circle cx="990" cy="210" r="5" fill="#0B1120" stroke="#1F2937" stroke-width="1.5"/>
+
+  <!-- Small accessory nodes -->
+  <circle cx="850" cy="145" r="3" fill="#0B1120" stroke="#1F2937" stroke-width="1"/>
+  <circle cx="1020" cy="160" r="3" fill="#0B1120" stroke="#1F2937" stroke-width="1"/>
+
+  <!-- Thin connecting line from name area to network -->
+  <line x1="725" y1="155" x2="800" y2="155" stroke="#1F2937" stroke-width="0.5" stroke-dasharray="3,6"/>
+</svg>
