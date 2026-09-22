@@ -1,118 +1,164 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Manuel Cobos Solís — Full Stack Developer specializing in Java, Spring Boot and Angular for high-availability banking systems" width="100%" />
+  <img src="./assets/banner.svg" alt="Manuel Cobos Solís - Full Stack Developer specializing in Java, Spring Boot, Angular and Microservices for banking systems" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="./assets/badge-status.svg" alt="Status: Open to work" height="26"/>
-  <img src="./assets/badge-location.svg" alt="Based in Cáceres, Spain — remote friendly" height="26"/>
-  <img src="./assets/badge-uptime.svg" alt="Systems built for high availability" height="26"/>
+  <img src="./assets/badge-status.svg" alt="Open to work" height="26"/>
+  <img src="./assets/badge-location.svg" alt="Based in Cáceres, Spain - remote friendly" height="26"/>
+  <img src="./assets/badge-uptime.svg" alt="Experience with high-availability banking systems" height="26"/>
 </div>
 
 <br/>
 
-## About
+# Manuel Cobos Solís
 
-I'm a Full Stack Developer specializing in **Java/Spring Boot** backends and **Angular** frontends, currently building high-availability systems for the banking sector at **ViewNext**, an IBM subsidiary. I work on software where downtime isn't an option. Real-time event processing, secure APIs, and systems designed to survive load, failure, and scrutiny.
+**Full Stack Developer | Java Backend | Spring Boot | Angular | Microservices | Banking**
 
-My focus sits on the backend: distributed systems, asynchronous messaging with Kafka, clean architecture, and observability. On the frontend, I build the interfaces that sit on top of that reliability.
+## About Me
 
-I hold **MuleSoft Certified Developer (L1)** and **LPIC-1** certifications, and I'm based in Cáceres, Spain - open to remote roles in banking, fintech, or any team building systems at scale.
+I'm a **Full Stack Developer** with more than 2 years of professional experience in software development for the **banking sector**, with a strong focus on **Java backend development, Spring Boot, microservices and distributed systems**.
 
-<br/>
+I build and maintain production software using **Java 17, Java 21, Spring Boot, REST APIs, Apache Kafka, RabbitMQ and Spring WebClient**, applying **Clean Architecture, Domain-Driven Design (DDD), API-first design and Event-Driven Architecture**.
 
-## Currently Building
+On the frontend, I work with **Angular 18 and Angular 20, TypeScript, RxJS, Vitest and Karma**, building production applications and integrating them with backend services.
 
-<div align="left">
-  <img src="./assets/icon-project.svg" alt="" width="20" height="20" align="left"/>
-  <div style="margin-left: 30px">
+I also work across **CI/CD, containers, infrastructure and software security**, using **Docker, Kubernetes, OpenShift, GitHub Actions, Maven, SonarQube, Fortify, Trivy and HashiCorp Vault**.
 
-**PayBridge** — a real-time payment orchestration and settlement hub. Event-driven platform that decouples payment ingestion from provider execution through Kafka, with circuit-breaker failover, WebSocket dashboards, and automated settlement reconciliation via Kafka Streams.
+My professional experience includes **high-availability banking systems, production incident resolution, legacy code refactoring, automated testing and release management using Scrum and Jira**.
 
-`Java` · `Spring Boot` · `Apache Kafka` · `Docker` · `Angular`
+I enjoy building software that is reliable, maintainable, secure and ready for production.
 
-  </div>
-</div>
+Based in **Cáceres, Spain**, and open to remote opportunities in **banking, fintech, backend Java, full stack development and distributed systems**.
 
-<br/>
+## Technical Skills
 
-## Tech Stack
+### Backend
 
-**Backend**
+**Java 17, Java 21, Spring Boot, Spring Security, Spring Data JPA, Spring MVC, Spring WebClient, REST APIs, Microservices, Clean Architecture, Domain-Driven Design (DDD), API-first design, concurrent processing, batch jobs, inter-service communication and timeout management.**
 
-<img src="./assets/icon-java.svg" width="22" height="22" alt="Java"/> Java &nbsp;&nbsp;
-<img src="./assets/icon-spring.svg" width="22" height="22" alt="Spring Boot"/> Spring Boot &nbsp;&nbsp;
-<img src="./assets/icon-security.svg" width="22" height="22" alt="Spring Security"/> Spring Security &nbsp;&nbsp;
-<img src="./assets/icon-kafka.svg" width="22" height="22" alt="Apache Kafka"/> Apache Kafka &nbsp;&nbsp;
-<img src="./assets/icon-rabbitmq.svg" width="22" height="22" alt="RabbitMQ"/> RabbitMQ
+### Frontend
 
-**Frontend**
+**Angular 18, Angular 20, TypeScript, RxJS, Vitest, Karma.**
 
-<img src="./assets/icon-angular.svg" width="22" height="22" alt="Angular"/> Angular &nbsp;&nbsp;
-<img src="./assets/icon-typescript.svg" width="22" height="22" alt="TypeScript"/> TypeScript &nbsp;&nbsp;
+### Messaging and Distributed Systems
 
-**DevOps & Infrastructure**
+**Apache Kafka, RabbitMQ, WebSockets, Event-Driven Architecture (EDA), asynchronous messaging, consumer groups, offset management and retry policies.**
 
-<img src="./assets/icon-docker.svg" width="22" height="22" alt="Docker"/> Docker &nbsp;&nbsp;
-<img src="./assets/icon-kubernetes.svg" width="22" height="22" alt="Kubernetes"/> Kubernetes &nbsp;&nbsp;
-<img src="./assets/icon-openshift.svg" width="22" height="22" alt="OpenShift"/> OpenShift &nbsp;&nbsp;
-<img src="./assets/icon-githubactions.svg" width="22" height="22" alt="GitHub Actions"/> GitHub Actions &nbsp;&nbsp;
-<img src="./assets/icon-vault.svg" width="22" height="22" alt="Vault"/> Vault &nbsp;&nbsp;
-<img src="./assets/icon-keycloak.svg" width="22" height="22" alt="Keycloak"/> Keycloak
+### DevOps and CI/CD
 
-**Observability**
+**Docker, Kubernetes, OpenShift, GitHub Actions, Maven, Git, GitHub, Continuous Integration and Continuous Delivery.**
 
-<img src="./assets/icon-prometheus.svg" width="22" height="22" alt="Prometheus"/> Prometheus &nbsp;&nbsp;
-<img src="./assets/icon-grafana.svg" width="22" height="22" alt="Grafana"/> Grafana &nbsp;&nbsp;
+### Security and Code Quality
 
-**Data**
+**SonarQube, Fortify, Trivy, HashiCorp Vault, static code analysis, vulnerability analysis, secrets management and secure software development.**
 
-<img src="./assets/icon-postgresql.svg" width="22" height="22" alt="PostgreSQL"/> PostgreSQL &nbsp;&nbsp;
-<img src="./assets/icon-mongodb.svg" width="22" height="22" alt="MongoDB"/> MongoDB
+### Databases and Persistence
 
-<br/>
+**PostgreSQL, Spring Data JPA, MongoDB, Redis, Oracle, MySQL and Firebase.**
 
-## Experience
+### Integration
 
-**Software Developer** at ViewNext in Banking Sector # *Jul 2025 – Present*
-- Develop and maintain high-availability microservices for a live banking environment (Java/Spring Boot, Angular)
-- Ship through established CI/CD pipelines (GitHub Actions, OpenShift) with zero-downtime deployment requirements
+**MuleSoft Anypoint Platform, Anypoint Exchange and IBM Integration Bus (IIB).**
 
-**Backend Java Developer** at Viewnext in Corporate APIs & Streaming # *Nov 2024 – Jun 2025*
-- Built an asynchronous Kafka pipeline processing real-time financial events end-to-end
-- Delivered real-time WebSocket notifications for banking operation status, replacing polling-based updates
-- Implemented REST APIs, persistence (Spring Data), and security (Spring Security) under Clean Architecture
+### Testing
 
-**Enterprise Integration Developer** at ViewNext in Enterprise Systems Integration # *Mar 2024 – Jun 2024*
-- Connected legacy banking systems to modern APIs via MuleSoft Anypoint integration flows
-- Built critical data transformation and routing pipelines on IBM Integration Bus (IIB)
+**JUnit 5, Mockito, unit testing, integration testing and code coverage above 90%.**
 
-<br/>
+### Methodologies
+
+**Scrum, Agile, Jira and release management.**
+
+### AI-Assisted Development
+
+**AI-assisted software development, code generation, code refactoring and development task automation.**
+
+## Professional Experience
+
+### Full Stack Developer - ViewNext
+
+**Banking Sector | Jul 2025 - Present**
+
+* Develop and maintain production **Angular** applications and backend services using **Java and Spring Boot**.
+* Designed and implemented a **microservice orchestrator** that receives a single JSON request and dynamically routes payload sections to specialized microservices using **Apache Kafka, RabbitMQ and Spring WebClient**.
+* Developed a generic **dynamic database connectivity microservice** using runtime bean creation and persistent connections.
+* Managed database credentials using **HashiCorp Vault**.
+* Developed complete **Full Stack microservices** using **Java, Spring Boot and Angular**, defining REST API contracts and endpoint naming standards.
+* Participated in architecture definition, API contracts and web design together with the technical lead.
+* Identified and fixed security vulnerabilities through **SonarQube and Fortify** analysis in production banking environments.
+* Resolved production incidents in **high-availability systems**.
+* Refactored legacy code and increased unit and integration test coverage to **more than 90%**.
+* Supported onboarding and technical training for new developers and interns.
+* Managed releases using **Scrum and Jira**, from development through production deployment on **OpenShift**.
+
+### Backend Developer - ViewNext
+
+**Banking Sector | FCT Internship | Nov 2024 - Jun 2025**
+
+* Implemented asynchronous messaging systems with **Apache Kafka and RabbitMQ**, including consumer groups, offset management and retry policies.
+* Developed **REST APIs** using **Spring MVC, Spring Data JPA and PostgreSQL**.
+* Applied **Domain-Driven Design (DDD)** and **Clean Architecture** to backend services.
+* Developed unit and integration tests using **JUnit 5 and Mockito**.
+* Contributed to backend services running in banking production environments.
+
+### Integration Developer - ViewNext
+
+**Enterprise Integration | FCT Internship | Mar 2024 - Jun 2024**
+
+* Designed integration flows using **MuleSoft Anypoint Platform**.
+* Published and managed APIs through **Anypoint Exchange**.
+* Implemented data transformations and message routing using **IBM Integration Bus (IIB)**.
 
 ## Certifications
 
-<img src="./assets/icon-cert.svg" width="18" height="18" alt=""/> **Cambridge English B1**
+* **1Z0-811 Java Certified Foundations Associate - Oracle | 2026**
+* **MuleSoft Certified Developer I - Salesforce | 2024**
+* **LPIC-1 - Linux Professional Institute Certification | 2023**
+* **B2 Business English - goFLUENT | 2026**
+* **Cambridge B1 Preliminary - University of Cambridge ESOL | 2026**
 
-<img src="./assets/icon-cert.svg" width="18" height="18" alt=""/> **MuleSoft Certified Developer – Level 1**
+## Education
 
-<img src="./assets/icon-cert.svg" width="18" height="18" alt=""/> **LPIC-1: Linux System Administrator**
+**Higher Technician in Web Application Development (DAW)**
+IES Ágora | 2024 - 2025
 
-<br/>
+**Higher Technician in Multiplatform Application Development (DAM)**
+IES Ágora | 2022 - 2024
 
-## Get in Touch
+## Languages
 
-I'm open to opportunities in banking, fintech, or any team building systems that need to work at scale.
+**Spanish:** Native
+**English:** B2
+
+## What I Work On
+
+I'm particularly interested in:
+
+* **Java backend development**
+* **Spring Boot and microservices**
+* **Distributed systems and asynchronous messaging**
+* **Apache Kafka and RabbitMQ**
+* **REST API design**
+* **Angular and Full Stack development**
+* **CI/CD and cloud-native infrastructure**
+* **Software security and code quality**
+* **High-availability systems**
+* **Banking and fintech technology**
+* **AI-assisted software development**
+
+## Connect
+
+I'm open to opportunities in **banking, fintech, Java backend, Full Stack development, microservices and distributed systems**.
 
 <div align="center">
 
-<a href="https://mcobos.dev"><img src="./assets/icon-web.svg" width="26" height="26" alt="Portfolio"/></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/manuelcobos"><img src="./assets/icon-linkedin.svg" width="26" height="26" alt="LinkedIn"/></a>&nbsp;&nbsp;
-<a href="mailto:manuel.cobos.dev@gmail.com"><img src="./assets/icon-email.svg" width="26" height="26" alt="Email"/></a>&nbsp;&nbsp;
-<a href="https://github.com/ManuelCobosDev"><img src="./assets/icon-github.svg" width="26" height="26" alt="GitHub"/></a>
+<a href="https://manuelcobos.dev"><img src="./assets/icon-web.svg" width="26" height="26" alt="Portfolio"/></a>   <a href="https://www.linkedin.com/in/manuelcobos"><img src="./assets/icon-linkedin.svg" width="26" height="26" alt="LinkedIn"/></a>   <a href="mailto:manuel.cobos.dev@gmail.com"><img src="./assets/icon-email.svg" width="26" height="26" alt="Email"/></a>   <a href="https://github.com/ManuelCobosDev"><img src="./assets/icon-github.svg" width="26" height="26" alt="GitHub"/></a>
 
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="./assets/footer.svg" alt="Manuel Cobos Solís" width="100%" height="40"/>
+  <img src="./assets/footer.svg" alt="Manuel Cobos Solís - Full Stack Developer" width="100%" height="40"/>
 </div>
