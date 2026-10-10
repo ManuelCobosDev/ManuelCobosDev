@@ -6,13 +6,13 @@
 
 ### Desarrollador Full Stack · Backend-oriented
 
-**Java · Spring Boot · Microservicios · Angular**
+**Java · Spring Boot · Angular · Microservicios**
 
 *Full Stack Developer (Java / Spring Boot / Angular) · Banking · Remote, Spain*
 
-Cáceres, Extremadura, España &nbsp;·&nbsp; 100% remoto
+Cáceres, Extremadura, España
 
-<img src="https://img.shields.io/badge/Abierto%20a%20oportunidades-Remoto%20en%20Espa%C3%B1a-0284c7?style=for-the-badge" alt="Abierto a oportunidades, remoto en España" />
+<img src="https://img.shields.io/badge/Abierto%20a%20oportunidades-Remoto%20en%20Espa%C3%B1a-0284c7?style=for-the-badge" alt="Abierto a oportunidades, remoto" />
 
 <a href="https://manuelcobos.dev"><img src="https://img.shields.io/badge/Web-manuelcobos.dev-1d4ed8?style=for-the-badge" alt="Web: manuelcobos.dev" /></a>
 <a href="https://linkedin.com/in/manuelcobos"><img src="https://img.shields.io/badge/LinkedIn-in%2Fmanuelcobos-0a66c2?style=for-the-badge" alt="LinkedIn: in/manuelcobos" /></a>
@@ -23,51 +23,51 @@ Cáceres, Extremadura, España &nbsp;·&nbsp; 100% remoto
 &nbsp;
 
 > [!NOTE]
-> **Manuel Cobos Solís** es desarrollador Full Stack con orientación backend (Java y Spring Boot), basado en Cáceres, Extremadura (España) y en remoto al 100%. Trabaja en **Viewnext** como consultor desarrollando para el **Banco Santander**, en un equipo ágil.
->
-> *English: Full Stack Developer, backend-oriented (Java, Spring Boot, Kafka, Angular), working in banking. Based in Cáceres, Spain, fully remote. English level B2.*
+> Hola! Soy **Manuel Cobos Solís**, un desarrollador Full Stack con orientación backend (Java y Spring Boot). Actualmente trabajo en **Viewnext** como desarrollador en el **Banco Santander**, aplicando metodologías ágiles.
+
+> [!NOTE]
+> Hi! I'm **Manuel Cobos Solís**, a Full Stack Developer with a backend focus (Java and Spring Boot). I currently work at **Viewnext** as a developer for **Banco Santander**, applying agile methodologies.
 
 ## Sobre mí
 
-Mi base es el backend: **Java 17/21 y Spring Boot**, microservicios, APIs REST (API-first con OpenAPI) y sistemas distribuidos con **Apache Kafka y RabbitMQ** en entornos bancarios de alta disponibilidad. En frontend trabajo con **Angular y TypeScript**: he trabajado con las versiones 15 a 20 y he hecho migraciones completas desde versiones antiguas hasta Angular 20.
+Mi base es el backend: **Java 17/21 y Spring Boot**, microservicios, APIs REST (API-first con OpenAPI) y sistemas distribuidos con **Apache Kafka y RabbitMQ** en entornos bancarios de alta disponibilidad. En frontend trabajo con **Angular 20**, haciendo migraciones tanto de versiones de java como de Angular.
 
-Desde marzo de 2024 llevo funcionalidades de principio a fin: desarrollo, tests, calidad de código y despliegue hasta producción.
+Desde Julio de 2025 llevo funcionalidades de principio a fin: desarrollo, tests e2e, calidad de código y despliegue hasta producción.
 
-Busco oportunidades como **Desarrollador Full Stack** o **Desarrollador Java Backend** en consultoras o empresas con equipos en España, en remoto.
+Estoy abierto a oportunidades como **Desarrollador Full Stack** o **Desarrollador Java Backend**.
 
 ## Stack
 
+### Core
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-1d4ed8?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-1d4ed8?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Angular-2563eb?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/TypeScript-2563eb?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-0369a1?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
-  <img src="https://img.shields.io/badge/RabbitMQ-0369a1?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0284c7?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-0284c7?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-0284c7?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-0284c7?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Java-1d4ed8?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-1d4ed8?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Angular-2563eb?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/TypeScript-2563eb?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
 | Área | Tecnologías |
 |---|---|
-| **Backend** | Java 17 · Java 21 · Spring Boot · Spring MVC · Spring Security · Spring Data JPA · Spring Batch · WebClient · Arquitectura Limpia / Hexagonal · DDD · API-first (OpenAPI) |
+| **Backend** | Java 17 · Java 21 · Spring Boot · Spring MVC · Spring Security · Spring Data JPA · Spring Batch · WebClient · Microservicios · REST APIs · Arquitectura Limpia / Hexagonal · DDD · API-first (OpenAPI) |
 | **Frontend** | Angular 15-20 (migraciones completas hasta la 20) · TypeScript · RxJS · Angular Material · Vitest · Karma |
 | **Mensajería y tiempo real** | Apache Kafka · RabbitMQ · WebSockets · arquitectura orientada a eventos |
 | **Bases de datos** | PostgreSQL · Oracle y SQL Server (consultas, creación de tablas y datos) |
 | **DevOps y calidad** | Docker · Kubernetes · OpenShift · ArgoCD · GitHub Actions · Maven · SonarQube · Trivy · JUnit 5 · Mockito |
-| **Conocimientos adicionales** | MongoDB · Firebase (formación y proyectos personales) |
+| **Conocimientos adicionales** | MongoDB · Firebase |
 
 ## Experiencia
 
-**Viewnext** · Cliente: Banco Santander (sector bancario)
+<p align="center">
+  <img src="https://img.shields.io/badge/En-Viewnext-1d4ed8?style=for-the-badge" alt="Viewnext" />
+  <img src="https://img.shields.io/badge/para-Banco%20Santander-ec0000?style=for-the-badge" alt="Cliente: Banco Santander" />
+</p>
 
 | Periodo | Rol | Qué hago |
 |---|---|---|
-| jul 2025 – actualidad | **Full Stack Developer** | Angular 20 y Spring Boot. Funcionalidades de extremo a extremo hasta producción, en un equipo ágil. |
-| nov 2024 – jun 2025 | **Java Backend Developer** | Microservicios, APIs REST y mensajería con Kafka y RabbitMQ. |
-| mar 2024 – jun 2024 | **Integration Developer** | MuleSoft Anypoint Platform e IBM Integration Bus. |
+| jul 2025 – actualidad | **Full Stack Developer** | Angular 20 y Spring Boot. Funcionalidades de extremo a extremo hasta producción, aplicando metodologías ágiles. |
+| nov 2024 – jun 2025 | **Java Backend Developer** · Prácticas | Formación en microservicios, APIs REST y mensajería con Kafka y RabbitMQ. |
+| mar 2024 – jun 2024 | **Integration Developer** · Prácticas | Formación en MuleSoft Anypoint Platform e IBM Integration Bus. |
 
 ## Formación y certificaciones
 
