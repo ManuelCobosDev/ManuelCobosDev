@@ -4,11 +4,7 @@
 
 # Manuel Cobos Solís
 
-### Desarrollador Full Stack · Backend-oriented
-
-**Java · Spring Boot · Angular · Microservicios**
-
-*Full Stack Developer (Java / Spring Boot / Angular) · Banking · Remote, Spain*
+### Full Stack Developer | Spring Boot | Angular
 
 Cáceres, Extremadura, España
 
@@ -30,11 +26,11 @@ Cáceres, Extremadura, España
 
 ## Sobre mí
 
-Mi base es el backend: **Java 17/21 y Spring Boot**, microservicios, APIs REST (API-first con OpenAPI) y sistemas distribuidos con **Apache Kafka y RabbitMQ** en entornos bancarios de alta disponibilidad. En frontend trabajo con **Angular 20**, haciendo migraciones tanto de versiones de java como de Angular.
+Desarrollador Full Stack con orientación backend: **Java 17/21, Spring Boot, Angular y microservicios**. Actualmente en Viewnext desarrollando para Banco Santander.
 
-Desde Julio de 2025 llevo funcionalidades de principio a fin: desarrollo, tests e2e, calidad de código y despliegue hasta producción.
+Llevo más de 2 años construyendo aplicaciones y más de 1 llevando funcionalidades de principio a fin: diseño de la API con OpenAPI (API-first), desarrollo, pruebas e2e, calidad de código y despliegue a producción en entornos bancarios de alta disponibilidad, trabajando con metodologías ágiles.
 
-Estoy abierto a oportunidades como **Desarrollador Full Stack** o **Desarrollador Java Backend**.
+Estoy abierto a oportunidades como **Full Stack Developer**, **Backend Developer** o **Frontend Developer**, en remoto desde España.
 
 ## Stack
 
@@ -49,12 +45,12 @@ Estoy abierto a oportunidades como **Desarrollador Full Stack** o **Desarrollado
 
 | Área | Tecnologías |
 |---|---|
-| **Backend** | Java 17 · Java 21 · Spring Boot · Spring MVC · Spring Security · Spring Data JPA · Spring Batch · WebClient · Microservicios · REST APIs · Arquitectura Limpia / Hexagonal · DDD · API-first (OpenAPI) |
-| **Frontend** | Angular 15-20 (migraciones completas hasta la 20) · TypeScript · RxJS · Angular Material · Vitest · Karma |
-| **Mensajería y tiempo real** | Apache Kafka · RabbitMQ · WebSockets · arquitectura orientada a eventos |
-| **Bases de datos** | PostgreSQL · Oracle y SQL Server (consultas, creación de tablas y datos) |
-| **DevOps y calidad** | Docker · Kubernetes · OpenShift · ArgoCD · GitHub Actions · Maven · SonarQube · Trivy · JUnit 5 · Mockito |
-| **Conocimientos adicionales** | MongoDB · Firebase |
+| **Backend** | Java 17 · Java 21 · Spring Boot · Spring MVC · Spring Security · Spring Data JPA · Spring Batch · Microservicios · REST APIs · Arquitectura hexagonal · DDD · TDD · API-first (OpenAPI) |
+| **Frontend** | TypeScript · Angular 15–20 · RxJS · Signals · Angular Material · NgRx · Vitest |
+| **Mensajería y eventos** | Apache Kafka · RabbitMQ · WebSockets |
+| **Bases de datos** | PostgreSQL · Oracle · SQL Server · MySQL · MongoDB |
+| **DevOps y calidad** | Docker · Kubernetes · OpenShift · ArgoCD · GitHub Actions · Maven · SonarQube · Trivy · JUnit 5 · Mockito · Vault · SFTP · Cilantrum e2e · JMeter · Fortify · Harbor |
+| **Integración (experiencia previa)** | MuleSoft Anypoint Platform · IBM Integration Bus |
 
 ## Experiencia
 
@@ -65,24 +61,27 @@ Estoy abierto a oportunidades como **Desarrollador Full Stack** o **Desarrollado
 
 | Periodo | Rol | Qué hago |
 |---|---|---|
-| jul 2025 – actualidad | **Full Stack Developer** | Angular 20 y Spring Boot. Funcionalidades de extremo a extremo hasta producción, aplicando metodologías ágiles. |
-| nov 2024 – jun 2025 | **Java Backend Developer** · Prácticas | Formación en microservicios, APIs REST y mensajería con Kafka y RabbitMQ. |
-| mar 2024 – jun 2024 | **Integration Developer** · Prácticas | Formación en MuleSoft Anypoint Platform e IBM Integration Bus. |
+| jul 2025 – actualidad | **Desarrollador Full Stack** | Desarrollo full stack para Banco Santander: aplicaciones bancarias internas de alta disponibilidad con Java y Angular. Microservicios con Java 17/21 y Spring Boot (REST, Spring Batch, Kafka, RabbitMQ), APIs con OpenAPI y gobierno de APIs. |
+| nov 2024 – jun 2025 | **Desarrollador Full Stack (Backend oriented)** · Prácticas | Java 17, Spring Boot 3 y Angular 20. APIs REST, mensajería con Kafka y RabbitMQ, WebSockets, PostgreSQL y MongoDB; TDD y Clean Architecture. |
+| mar 2024 – jun 2024 | **Desarrollador de Integración** · Prácticas | Integración de sistemas empresariales con MuleSoft Anypoint Platform e IBM Integration Bus. |
 
 ## Formación y certificaciones
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MuleSoft-Certified%20Developer-1d4ed8?style=flat-square" alt="MuleSoft Certified Developer" />
-  <img src="https://img.shields.io/badge/LPIC--1-Linux%20Administrator-2563eb?style=flat-square" alt="LPIC-1 Linux Administrator" />
+  <img src="https://img.shields.io/badge/Ingl%C3%A9s-B1-0369a1?style=flat-square" alt="Inglés B1" />
   <img src="https://img.shields.io/badge/Ingl%C3%A9s-B2-0369a1?style=flat-square" alt="Inglés B2" />
-  <img src="https://img.shields.io/badge/Anthropic-Claude%20Code%20in%20Action-0284c7?style=flat-square" alt="Claude Code in Action, Anthropic" />
+  <img src="https://img.shields.io/badge/Sinensia-Escuela%20Desarrollo%20Java-1d4ed8?style=flat-square" alt="Escuela Desarrollo Java, Sinensia" />
+  <img src="https://img.shields.io/badge/LPIC--1-Linux%20Administrator-2563eb?style=flat-square" alt="LPIC 1" />
+  <img src="https://img.shields.io/badge/MuleSoft-Certified%20Developer-1d4ed8?style=flat-square" alt="MuleSoft Certified Developer" />
 </p>
 
 - Técnico Superior en Desarrollo de Aplicaciones Web (DAW) · IES Ágora · 2024–2025
   *(Higher Technical Degree in Web Application Development)*
 - Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) · IES Ágora · 2022–2024
   *(Higher Technical Degree in Cross-Platform Application Development)*
-- MuleSoft Certified Developer · LPIC-1 Linux Administrator · Inglés B2 · Claude Code in Action (Anthropic)
+- Ingeniería Informática · Universidad de Extremadura · 2021–2022
+  *(Computer Software Engineering · solo el primer año / first year only)*
+- Certificaciones: Certificación B1 en Inglés (Cambridge University Press & Assessment) · Certificación B2 en Inglés (goFLUENT) · Escuela Desarrollo Java (Sinensia IT Solutions) · LPIC 1 (Linux Professional Institute) · MuleSoft Certified Developer – Integration and API Associate (Salesforce)
 
 Certificaciones verificables en [LinkedIn](https://www.linkedin.com/in/manuelcobos/details/certifications/).
 
