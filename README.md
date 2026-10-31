@@ -49,7 +49,7 @@ Estoy abierto a oportunidades como **Full Stack Developer**, **Backend Developer
 | **Frontend** | TypeScript · Angular 15–20 · RxJS · Signals · Angular Material · NgRx · Vitest |
 | **Mensajería y eventos** | Apache Kafka · RabbitMQ · WebSockets |
 | **Bases de datos** | PostgreSQL · Oracle · SQL Server · MySQL · MongoDB |
-| **DevOps y calidad** | Docker · Kubernetes · OpenShift · ArgoCD · GitHub Actions · Maven · SonarQube · Trivy · JUnit 5 · Mockito · Vault · SFTP · Cilantrum e2e · JMeter · Fortify · Harbor |
+| **DevOps, sistemas y calidad** | GNU/Linux (LPIC-1) · Bash · Docker · Kubernetes · OpenShift · ArgoCD · GitHub Actions · Maven · SonarQube · Trivy · JUnit 5 · Mockito · Vault · SFTP · Cilantrum e2e · JMeter · Fortify · Harbor |
 | **Integración (experiencia previa)** | MuleSoft Anypoint Platform · IBM Integration Bus |
 
 ## Experiencia
@@ -62,6 +62,7 @@ Estoy abierto a oportunidades como **Full Stack Developer**, **Backend Developer
 | Periodo | Rol | Qué hago |
 |---|---|---|
 | jul 2025 – actualidad | **Desarrollador Full Stack** | Desarrollo full stack para Banco Santander: aplicaciones bancarias internas de alta disponibilidad con Java y Angular. Microservicios con Java 17/21 y Spring Boot (REST, Spring Batch, Kafka, RabbitMQ), APIs con OpenAPI y gobierno de APIs. |
+| oct 2026 – nov 2026 | **Formador Linux LPIC-1** · Autónomo | Docencia presencial de la certificación «Administración de sistemas Linux – Nivel LPIC-1» (exámenes 101 y 102 de LPI, 60 h lectivas) para el Centro de Tecnologías Avanzadas (CTA · INAEM) y EIGP en Zaragoza. Capacitación teórica y práctica en administración GNU/Linux, Bash, Systemd, LVM, OpenSSH y redes. Diseño de laboratorios y desarrollo de la plataforma web [lpic1.manuelcobos.dev](https://lpic1.manuelcobos.dev/) con temario interactivo y simulacros de examen. |
 | nov 2024 – jun 2025 | **Desarrollador Full Stack (Backend oriented)** · Prácticas | Java 17, Spring Boot 3 y Angular 20. APIs REST, mensajería con Kafka y RabbitMQ, WebSockets, PostgreSQL y MongoDB; TDD y Clean Architecture. |
 | mar 2024 – jun 2024 | **Desarrollador de Integración** · Prácticas | Integración de sistemas empresariales con MuleSoft Anypoint Platform e IBM Integration Bus. |
 
